@@ -1,0 +1,27 @@
+hr {
+    border: 1px solid #000000;
+    
+}
+
+.footer__content {
+    padding: 2% 0;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+.footer__images img {
+    padding-left: 1em;
+    margin-bottom: 10px;
+
+}
+
+.footer__text {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.footer__text img {
+    margin-top: 10px;
+}
